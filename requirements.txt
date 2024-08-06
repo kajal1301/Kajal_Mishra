@@ -1,0 +1,11 @@
+pandas 
+streamlit
+langchain 
+openai
+requests
+pymupdf 
+pdfplumber
+beautifulsoup4
+pytesseract 
+opencv-python 
+pdfminer.six
